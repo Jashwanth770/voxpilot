@@ -26,12 +26,12 @@ To install and set up the project locally, follow these steps:
 
 1. 🔗 Clone the repository:
     ```bash
-    git clone https://github.com/Jashwanth770/VoxPilot.git
+    git clone https://github.com/Jashwanth770/Voxpilot.git
     ```
 
 2. 🔽 Navigate into the project directory:
     ```bash
-    cd Vox-Pilot
+    cd Voxpilot
     ```
 
 3. 🧑‍💻 Set up a virtual environment (optional but recommended):
